@@ -1,1 +1,222 @@
-/
+[
+  {
+    "soal": "Brand lokal pionir yang terkenal dengan serum 'Acne Shot' dan 'Hydrating Serum' berwajah estetik minimalis",
+    "jawaban": "somethinc",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/150-somethinc.jpg"
+  },
+  {
+    "soal": "Brand dengan fokus utama memperbaiki skin barrier, viral berkat '5x Ceramide Moisturizer Gel'",
+    "jawaban": "skintific",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/75-skintific.jpg"
+  },
+  {
+    "soal": "Brand skincare legendaris Indonesia yang terkenal dengan jargon 'Halal dari Awal'",
+    "jawaban": "wardah",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/20-wardah.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang sangat terkenal dengan produk hidrasi 'Advanced Snail 96 Mucin Power Essence'",
+    "jawaban": "cosrx",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-cosrx.jpg"
+  },
+  {
+    "soal": "Brand asal Prancis yang terkenal dengan produk thermal water dan aman untuk kulit sensitif atau eczema-prone",
+    "jawaban": "la roche posay",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-larocheposay.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang mengusung konsep natural dari Pulau Jeju, terkenal dengan 'Green Tea Seed Serum'",
+    "jawaban": "innisfree",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/25-innisfree.jpg"
+  },
+  {
+    "soal": "Brand dermatologi asal Amerika Serikat yang terkenal dengan pembersih wajah lembut tanpa busa berlebih",
+    "jawaban": "cetaphil",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/90-cetaphil.jpg"
+  },
+  {
+    "soal": "Brand asal Jepang yang terkenal dengan produk 'Facial Treatment Essence' (FTE) yang mengandung Pitera",
+    "jawaban": "sk2",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/70-sk2.jpg"
+  },
+  {
+    "soal": "Brand lokal yang terkenal dengan produk 'Brightening Serum' berharga sangat terjangkau di minimarket",
+    "jawaban": "implora",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/25-implora.jpg"
+  },
+  {
+    "soal": "Brand lokal yang terkenal dengan sheet mask berdesain unik dan serum vitamin C-nya",
+    "jawaban": "azarine",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/60-azarine.jpg"
+  },
+  {
+    "soal": "Brand asal Amerika Serikat yang terkenal dengan produk eksfoliasi legendaris 'Skin Perfecting 2% BHA Liquid Exfoliant'",
+    "jawaban": "paulas choice",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-paulaschoice.jpg"
+  },
+  {
+    "soal": "Brand skincare lokal dengan spesialisasi produk mencerahkan berbahan dasar susu dan kefir",
+    "jawaban": "bioaqua",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/60-bioaqua.jpg"
+  },
+  {
+    "soal": "Brand asal Inggris yang terkenal dengan konsep ramah lingkungan dan rangkaian produk 'Tea Tree' untuk jerawat",
+    "jawaban": "the body shop",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-thebodyshop.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang terkenal dengan produk 'Water Sleeping Mask' untuk hidrasi maksimal di malam hari",
+    "jawaban": "laneige",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-laneige.jpg"
+  },
+  {
+    "soal": "Brand lokal yang menghadirkan 'Ceramella Sunscreen' dan berfokus pada harga ramah pelajar",
+    "jawaban": "the originote",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/35-theoriginote.jpg"
+  },
+  {
+    "soal": "Brand asal Jepang yang sangat populer dengan lini produk sunscreen bertekstur watery essence yang ringan",
+    "jawaban": "biore",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30.biore.jpg"
+  },
+  {
+    "soal": "Brand lokal yang terkenal dengan produk 'Glow Maker AHA BHA PHA Clarifying Toner'",
+    "jawaban": "whitelab",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/35-whitelab.jpg"
+  },
+  {
+    "soal": "Brand skincare lokal yang berfokus pada kemurnian bahan aktif, contoh produknya 'Invisible Sunscreen Gel'",
+    "jawaban": "avoskin",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/20-avoskin.jpg"
+  },
+  {
+    "soal": "Sister brand dari Avoskin yang mengusung konsep ramah lingkungan dan minimalis",
+    "jawaban": "lacoco",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-lacoco.jpg"
+  },
+  {
+    "soal": "Brand kosmetik dan skincare remaja yang terkenal dengan 'Bright Stuff Face Wash'",
+    "jawaban": "emina",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/45-emina.jpg"
+  },
+  {
+    "soal": "Brand lokal besutan Felicya Angelista yang terkenal dengan rangkaian mencerahkan 'Brightly Ever After'",
+    "jawaban": "scarlett whitening",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/25-scarlett.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang terkenal dengan konsep buah-buahan dan produk 'Watermelon Glow Mask'",
+    "jawaban": "glow recipe",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/35-glowrecipe.jpg"
+  },
+  {
+    "soal": "Brand global di bawah DECIEM yang terkenal dengan pendekatan kemasan sains minimalis dan harga terjangkau seperti Niacinamide 10%",
+    "jawaban": "the ordinary",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-theordinary.jpg"
+  },
+  {
+    "soal": "Brand asal Amerika Serikat yang memadukan bahan makanan sehat (superfood) ke dalam skincare, terkenal dengan 'Kale + Green Tea Cleanser'",
+    "jawaban": "youth to the people",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/45-youthtothepeople.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan milik Unilever yang terkenal dengan pendekatan hidrasi estetika klinis premium",
+    "jawaban": "ahc",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/60-ahc.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang mengandalkan warisan rempah tradisional ginseng, terkenal dengan lini 'First Care Activating Serum'",
+    "jawaban": "sulwhasoo",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/70-sulwhasoo.jpg"
+  },
+  {
+    "soal": "Brand lokal yang mengusung konsep ramah kulit sensitif, terkenal dengan produk 'Oat-er Gentle Cleanser'",
+    "jawaban": "hale",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/80-hale.jpg"
+  },
+  {
+    "soal": "Brand lokal yang fokus pada bahan natural tumbuhan, populer dengan 'Bakuchiol Skinpair Oil Serum'",
+    "jawaban": "bhumi",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-bhumi.jpg"
+  },
+  {
+    "soal": "Brand farmasi asal Prancis yang terkenal dengan micellar water tutup merah 'Sensibio H2O' untuk kulit sensitif",
+    "jawaban": "bioderma",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/35-bioderma.jpg"
+  },
+  {
+    "soal": "Brand asal Jerman yang berfokus pada produk perawatan kulit kering dan sensitif yang sering ditemukan di rekomendasi dokter",
+    "jawaban": "eucerin",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-eucerin.jpg"
+  },
+  {
+    "soal": "Brand asal Amerika Serikat yang terkenal dengan losion pelembap tubuh berkandungan oatmeal",
+    "jawaban": "aveeno",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/45-aveeno.jpg"
+  },
+  {
+    "soal": "Brand apotek legendaris asal New York yang terkenal dengan produk 'Calendula Herbal Extract Toner' dan maskot kerangka tulang",
+    "jawaban": "kiehls",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/35-kiehls.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang terkenal dengan produk 'Centella Ampoule' murni dari Madagaskar",
+    "jawaban": "skin1004",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-skin1004.jpg"
+  },
+  {
+    "soal": "Brand asal Prancis yang terkenal dengan paten air mata air pegunungan tinggi, contoh produknya 'Mineral 89'",
+    "jawaban": "vichy",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/60-vichy.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang menggunakan botol kaca estetik, terkenal dengan 'Rice Toner' untuk mencerahkan",
+    "jawaban": "i am from",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-iamfrom.jpg"
+  },
+  {
+    "soal": "Brand asal Jepang yang berfokus penuh pada hidrasi asam hialuronat, kemasannya minimalis sering ditemukan di drugstore",
+    "jawaban": "hada labo",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-hadalabo.jpg"
+  },
+  {
+    "soal": "Brand asal Amerika Serikat yang didirikan oleh Rihanna, menggabungkan skincare dan kosmetik inklusif",
+    "jawaban": "fenty beauty",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-fentybeauty.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang mengusung konsep minimalis modern, terkenal dengan 'Low pH Good Morning Gel Cleanser'",
+    "jawaban": "cosrx",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-cosrx.jpg"
+  },
+  {
+    "soal": "Brand lokal yang terkenal dengan produk 'Acne Spot Gel' berbahan dasar alami sulfur dan minyak pohon teh",
+    "jawaban": "erha",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/80-erha.jpg"
+  },
+  {
+    "soal": "Brand lokal yang berfokus pada permasalahan kulit pria, menyediakan lini 'Energy Bright Cream'",
+    "jawaban": "ms glow",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-msglow.jpg"
+  },
+  {
+    "soal": "Brand asal Korea Selatan yang terkenal dengan produk berbahan dasar propolis lebah untuk kulit bercahaya",
+    "jawaban": "by wishtrend",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/30-bewishtrend.jpg"
+  },
+  {
+    "soal": "Brand lokal berkonsep vegan dan cruelty-free yang populer dengan produk 'Barrier Helper Moisturizer'",
+    "jawaban": "teratu beauty",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/25-teratubeauty.jpg"
+  },
+  {
+    "soal": "Brand asal Prancis yang fokus pada produk anti-aging berbasis ekstrak anggur alami",
+    "jawaban": "caudalie",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/50-caudalie.jpg"
+  },
+  {
+    "soal": "Brand lokal yang terkenal dengan produk perawatan jerawat 'Acne Care Facial Wash' berharga ekonomis",
+    "jawaban": "purbasari",
+    "imgUrl": "https://raw.githubusercontent.com/remilioremy/database/refs/heads/main/tebakskincare/blurimage/60-purbasari.jpg"
+  }
+]
